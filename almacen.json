@@ -55,7 +55,8 @@
       "inscritos": [
         "db4f",
         "d74a"
-      ]
+      ],
+      "asistentes": []
     },
     {
       "id": "2",
@@ -69,7 +70,8 @@
         1,
         "13a7",
         "db4f"
-      ]
+      ],
+      "asistentes": []
     },
     {
       "id": "3",
@@ -84,7 +86,8 @@
         "13a7",
         "db4f",
         "668e"
-      ]
+      ],
+      "asistentes": []
     },
     {
       "id": "4",
@@ -97,7 +100,8 @@
       "inscritos": [
         "db4f",
         "d74a"
-      ]
+      ],
+      "asistentes": []
     },
     {
       "id": "1729299824872",
@@ -109,7 +113,8 @@
       "descripcion": "Un evento dedicado a los GAMERS",
       "inscritos": [
         "db4f"
-      ]
+      ],
+      "asistentes": []
     }
   ]
 }
